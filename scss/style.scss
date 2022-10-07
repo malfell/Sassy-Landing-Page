@@ -1,3 +1,8 @@
+// imports
+// no need for the underscore or .scss part apparently
+@import 'btnConfig';
+@import 'config';
+@import 'utilities';
 
 * {
   box-sizing: border-box;
